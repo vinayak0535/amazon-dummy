@@ -378,18 +378,20 @@ margin-top: 20px;
     }
 
     .swiper-slide img {
-        width: 100%; /* Ensure it adjusts responsively */
-          max-width: 10rem; /* Same as original */
+        width: 100%;
+          max-width: 10rem; 
           height: 150px;
           aspect-ratio: 4/4;
-        /* object-fit: cover; */
         background-color: #fff;
         padding-inline: 20px;
       }
     
       .foot-cols{
-        padding-inline: 14px;
+        padding: 10px;
         flex-wrap: wrap;
+        font-size: 80%;
+        justify-content: center;
+        gap: 10px
 
       }
 
@@ -421,6 +423,20 @@ margin-top: 20px;
       nav{
         padding: 6px 14px;
       }
+
+           .title{
+        position: absolute;
+        top: 45%;
+        width: 80%;
+        font-size: 12px;
+      }
+
+      select{
+      
+        width: 80px;
+        font-size: 90%;
+    
+    }
 }
 
 
