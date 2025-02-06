@@ -417,7 +417,9 @@ margin-top: 20px;
       }
 
       .nav-country{
-        flex-direction: wrap;
+        flex-direction: column;
+                  font-size: 90%;
+
       }
 
       nav{
@@ -429,17 +431,22 @@ margin-top: 20px;
         top: 45%;
         width: 80%;
         font-size: 12px;
+        margin-bottom:20px;
+        margin-right:20px;
+        
       }
 
       select{
       
-        width: 80px;
+        width: 90px;
         font-size: 90%;
     
     }
 
         .categories{    
         gap:20px;
+                    padding-inline:15px;
+
     }
     
     .categories a{
