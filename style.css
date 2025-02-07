@@ -354,6 +354,7 @@ margin-top: 20px;
         overflow-x: auto;
         margin-top: 20px;
         flex-wrap: nowrap;
+        margin-top:0px
     }
 
     .boxes-row{
@@ -429,7 +430,8 @@ margin-top: 20px;
            .title{
         position: absolute;
         top: 45%;
-        width: 80%;
+               right:10%
+        width: 100%;
         font-size: 12px;
         margin-bottom:20px;
         margin-right:20px;
