@@ -432,12 +432,11 @@ margin-top: 20px;
            .title{
         position: absolute;
         top: 40%;
-               left:10px;
+            
         width: 90%;
-               overflow:none;
         font-size: 10px;
         margin-bottom:20px;
-               margin-inline:10px;
+     margin-inline:10px;
 
             padding:5px
         
@@ -458,8 +457,8 @@ margin-top: 20px;
     }
 
       .header-slider a{
-    top: 20%;
-    padding: 3vh .5vw;
+    top: 30%;
+    padding: 2vh 1vw;
     background: #ffffff4f;
     font-size: 18px;
 }
