@@ -432,11 +432,13 @@ margin-top: 20px;
            .title{
         position: absolute;
         top: 40%;
-               left:10%
+               left:20px;
         width: 100%;
         font-size: 10px;
         margin-bottom:20px;
                margin-inline:30px;
+
+            padding:5px
         
       }
 
